@@ -1,0 +1,5 @@
+_build/build.config.php
+.idea
+nbproject
+config.core.php
+.DS_Store
